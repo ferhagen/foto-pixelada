@@ -1,5 +1,5 @@
 //defino los valores del lado del cuadrado
-float lado =16.6;
+float lado =25;
 // doy valores extra para manejar las distancias entre cada uno
 float A=lado*2;
 float B=lado*3;
